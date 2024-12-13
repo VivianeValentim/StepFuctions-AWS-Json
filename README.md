@@ -16,3 +16,4 @@ SNS (se não for entregue, não continua as demandas) e SQS (o que não for entr
 Step Functions - construtor visual para criar fluxos de trabalho. Esse serviço facilita a coordenação de aplicativos e microserviços, usando fluxos de trabalho visuais. Coordena aplicativos distribuídos.
 
 
+---
